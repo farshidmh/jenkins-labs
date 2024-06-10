@@ -8,4 +8,4 @@
 ## Labs:
 
 - [Lab 1: Install Jenkins on Docker](setup/readme.md)
-- [Lab 2: Plugin](pipeline/readme.md)
+- [Lab 2: Plugin](plugin/readme.md)
