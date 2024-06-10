@@ -9,3 +9,4 @@
 
 - [Lab 1: Install Jenkins on Docker](setup/readme.md)
 - [Lab 2: Plugin](plugin/readme.md)
+- [Lab 3: Freestyle Job](pipeline/freestyle/readme.md)
